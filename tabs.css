@@ -1,0 +1,15 @@
+body {
+  background-color: blue;
+}
+nav div {
+border-style: solid;
+text-align: center;
+background-color:teal;
+}
+nav a {
+text-decoration: none;
+color:white;
+}
+div:hover {
+background-color:aqua
+}
